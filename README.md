@@ -1,3 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=Meitchouk&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 # Hi 👋, I'm Marat Meitchouk!
 
 ## A passionate developer from Nicaragua
@@ -37,7 +41,6 @@
 
 ---
 
----
-[![](https://visitcount.itsvg.in/api?id=Meitchouk&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
