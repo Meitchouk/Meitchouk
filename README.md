@@ -11,7 +11,7 @@
 ### 🌐 Connect with me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/marat-lanza)
-[![Email Badge](https://img.shields.io/badge/Email-lanzamarat%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.lanzamarat@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-dev.lanzamarat%40gmail.com-green?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.lanzamarat@gmail.com)
 
 ---
 
