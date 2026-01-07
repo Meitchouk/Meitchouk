@@ -1,7 +1,7 @@
 <h1 align="center">Marat Meitchouk</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=720&lines=Fullstack+Developer+%7C+Systems+Engineer;Angular+%7C+React+%7C+Next.js+%7C+NestJS;Clean+Code+%7C+Scalable+Architecture+%7C+Performance;Building+reliable+and+maintainable+software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=720&lines=Fullstack+Developer+%7C+Systems+Engineer;Angular+%7C+React+%7C+Next.js+%7C+NestJS;Clean+Code+%7C+Scalable+Architecture+%7C+Performance;Building+reliable+and+maintainable+software](https://readme-typing-svg.demolab.com/demo/?weight=300&size=16&center=true&vCenter=true&lines=Fullstack+Developer+%7C+Systems+engineer;Angular+%7C+React+%7C+Vue+%7C+Next+%7C+Nest+%7C+.NET;Clean+Code+%7C+Scalable+Architecture)" />
 </p>
 
 <p align="center">
